@@ -1,0 +1,7 @@
+D:\code-c\BlazorApp\output\BlazorApp.exe
+D:\code-c\BlazorApp\output\appsettings.Development.json
+D:\code-c\BlazorApp\output\appsettings.json
+D:\code-c\BlazorApp\output\BlazorApp.dll
+D:\code-c\BlazorApp\output\BlazorApp.deps.json
+D:\code-c\BlazorApp\output\BlazorApp.runtimeconfig.json
+D:\code-c\BlazorApp\output\BlazorApp.pdb
